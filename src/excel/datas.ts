@@ -13,6 +13,6 @@ export const datas = [
     },
     {
         name : "hashim",
-        age:45
+        age:'=B4'
     }
 ]
